@@ -1,3 +1,3 @@
-# Why Program
+# This program prints Hello, world!
 
-prinq("hello world")
+print('Hello, world!')
