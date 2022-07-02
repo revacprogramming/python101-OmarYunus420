@@ -15,5 +15,5 @@ def grade(s):
         print("not a score")
  
 s = float(input("Enter the score: "))
-grade(s)
+grade(s) 
 
